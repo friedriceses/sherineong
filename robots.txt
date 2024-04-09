@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /assets/js/*.js*
+Allow: /images/*.jpg*
+Disallow:
